@@ -127,6 +127,8 @@ footer {
     -webkit-transition: padding .2s ease-in;
     -moz-transition: padding .2s ease-in;
     transition: padding .2s ease-in;
+    position: relative;
+    top: -15px;
 }
 
 .navbar-header > .navbar-brand:hover,
