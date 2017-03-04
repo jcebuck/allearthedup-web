@@ -244,7 +244,7 @@ header:before {
     width: 100%;
     background-color: #c9c9c9;
     background-image: url('../assets/background.jpg');
-    background-position: center;
+    background-position: 50% 60%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
